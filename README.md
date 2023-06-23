@@ -5,6 +5,8 @@ Intro To Web3 For Unity (All Unity SDKs)
 
 This repo includes best practices and C# Coding Standards for **Unity Web3**.
 
+The related repos contain the first time user experience of integration with and custom examples of many popular Web3 Unity SDKs.
+
 🌟Star This Repo. Big update is coming :)
 
 ## Web3 Portolio Highlights
