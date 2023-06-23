@@ -21,7 +21,7 @@ The related repos contain the first time user experience of integration with and
 
 <img width = "80%" src="https://media.licdn.com/dms/image/C4E16AQFcmLERnkFtnA/profile-displaybackgroundimage-shrink_350_1400/0/1597593844701?e=1692835200&v=beta&t=QB0pefjQxPcFSOm1fRiT8q7YN9XuKgSd1GJEhuTlzm0" />
 
-Repos are *private and for member-students only*. Request access through your instructor.
+Repos are *private and for member-students only*. Request access through your instructor. Or star the repo. Some links may go public :)
  
 Each may demonstrate; authentication, send assets, fetch assets, calling read/write smartcontracts, and observing smartcontract events.
 
