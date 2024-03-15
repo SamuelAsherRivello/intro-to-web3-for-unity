@@ -29,6 +29,7 @@ The batching and ordering are **random** ;)
 
 ### Batch A
 * [intro-to-web3-for-unity-unity3dblockchainwallet](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-unity3dblockchainwallet)
+* [intro-to-web3-for-unity-polkadot-sdk](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-polkadot-sdk)
 * [intro-to-web3-for-unity-heathen-bgsdk](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-heathen-bgsdk)
 * [intro-to-web3-for-unity-solana-wallet](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-solana-wallet)
 * [intro-to-web3-for-unity-web3auth-sdk](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-web3auth-sdk)
