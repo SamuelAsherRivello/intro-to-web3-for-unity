@@ -75,12 +75,12 @@ The batching and ordering are **random** ;)
 | Name | Chain | Tried It | Bug-Free Setup | 5 Needs | WebGL | Standalone | Leading Choice? |
 |------|------------|------------|------------------|---------|-------|------------|------------|
 | [Ankr_Mirage](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_EVM_Ankr_Mirage) / [Docs](https://mirage.xyz/docs/unity-sdk/how-to/update-events/) | E | ✔️ | ✔️ |  1/2/3/4/5         |  ✔️ |  ✔️ |  ✔️ |  
-| [Chainsafe](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-chainsafe)                | E | ✔️ | ✔️ |  1/2/3/4   |  ✔️ |  ✔️ | ✔️ |     
-| [Moralis_1x](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_EVM_Moralis_1x)              | E | ✔️ | ✔️ |  1/2/3/4/5 |  ✔️ |  ✔️ | ❌ | 
-| [Moralis_2x](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_EVM_Moralis_2x)              | E | ✔️ | ❌ |  1         |  ✔️ |  ✔️ | ❌ | 
-| [Thirdweb-unity-sdk](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-thirdweb-unity-sdk)  | E | ✔️ | ✔️ |  1/2/3/4   |  ✔️ |  ❌ | ❌ | 
-| [Loom-sdk](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-loom-sdk)                    | M | ✔️ | ❌ |  1/2/3/4   |  ✔️ |  ❌ | ❌ | 
-| [Unity-nethereum](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-nethereum)                | E | ✔️ | ✔️ |  ?         |  ✔️ |  ❌ | ❌ | 
+| [Chainsafe](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-chainsafe)                | E | ✅ | ✅ |  1/2/3/4   |  ✅ |  ✅ | ✅ |     
+| [Moralis_1x](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_EVM_Moralis_1x)              | E | ✅ | ✅ |  1/2/3/4/5 |  ✅ |  ✅ | ❌ | 
+| [Moralis_2x](https://github.com/SamuelAsherRivello/Intro_To_Unity_Crypto_EVM_Moralis_2x)              | E | ✅ | ❌ |  1         |  ✅ |  ✅ | ❌ | 
+| [Thirdweb-unity-sdk](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-thirdweb-unity-sdk)  | E | ✅ | ✅ |  1/2/3/4   |  ✅ |  ❌ | ❌ | 
+| [Loom-sdk](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-loom-sdk)                    | M | ✅ | ❌ |  1/2/3/4   |  ✅ |  ❌ | ❌ | 
+| [Unity-nethereum](https://github.com/SamuelAsherRivello/intro-to-web3-for-unity-nethereum)                | E | ✅ | ✅ |  ?         |  ✅ |  ❌ | ❌ | 
 
 
 
