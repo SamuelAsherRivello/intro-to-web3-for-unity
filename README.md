@@ -95,17 +95,19 @@ Created By
 =============
 
 - Samuel Asher Rivello 
-- Over 20 years XP with game development (2023)
-- Over 10 years XP with Unity (2023)
+- Over 25 years XP with game development (2024)
+- Over 11 years XP with Unity (2024)
 
 Contact
 =============
 
 - Twitter - <a href="https://twitter.com/srivello/">@srivello</a>
-- Resume & Portfolio - <a href="http://www.SamuelAsherRivello.com">SamuelAsherRivello.com</a>
 - Git - <a href="https://github.com/SamuelAsherRivello/">Github.com/SamuelAsherRivello</a>
-- SDKs - <a href="https://Linkedin.com/in/SamuelAsherRivello">Want Your Web3 SDK Vetted & On This List?</a>
+- Resume & Portfolio - <a href="http://www.SamuelAsherRivello.com">SamuelAsherRivello.com</a>
 - LinkedIn - <a href="https://Linkedin.com/in/SamuelAsherRivello">Linkedin.com/in/SamuelAsherRivello</a> <--- Say Hello! :)
 
 
+License
+=============
 
+Provided as-is under MIT License | Copyright © 2024 Rivello Multimedia Consulting, LLC
